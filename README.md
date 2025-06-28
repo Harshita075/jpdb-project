@@ -13,3 +13,12 @@ This is a simple, dynamic web form that lets users manage project details like P
 🧠 Vanilla JavaScript
 🔗 JsonPowerDB (JPDB) from Login2Explore
 🌐 CORS Proxy (for local frontend fetch testing
+
+🙌 Acknowledgements
+🧠 Backend powered by Login2Explore
+
+🔧 Proxy used: CORS Anywhere
+
+💻 Built by: Harshita Ahuja
+
+
